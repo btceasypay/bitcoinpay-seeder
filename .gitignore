@@ -1,0 +1,9 @@
+# IDE
+.vscode
+.DS_Store
+.idea
+
+
+bitcoinpayseeder
+vendor
+go.sum
